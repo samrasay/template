@@ -7,7 +7,7 @@ labels:
   - Software engineering
 ---
 
-<img class="ui medium right spaced image" src="../images/jscripot.png">
+<img class="ui medium right spaced image" src="/images/jscripot.png">
 
 The first time I was exposed to code was as a junior in high school.  My math teacher knew that I was interested in computer science, but was well aware that the school did not offer those courses.  He offered to teach me the basics of C++ so that we could develop a small game that all the other students could play.  The game was unfinished because of time constraints and priorities, but I was able to continue my passion for coding when I got to college where I learned more about C, C++, and Java.
 
