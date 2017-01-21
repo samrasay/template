@@ -2,7 +2,7 @@
   "basics": {
     "name": "Samuel Rasay Jr.",
     "label": "Student",
-    "picture": "https://samrasay.github.io/template/images/sam.jpg",
+    "picture": "https://samrasay.github.io/images/sam.jpg",
     "email": "samrasay@hawaii.edu",
     "website": "https://samrasay.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018. I plan to pursue a career in security or web/app development.",
@@ -26,21 +26,21 @@
       },
     ]
   },
-  "interests": [
+  "Interests": [
     {
-      "name": "internet of things",
+      "name": "Security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "robotics",
       "keywords": [
       ]
     }
