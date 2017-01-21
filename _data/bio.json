@@ -91,54 +91,39 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
       "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "position": "Mac/PC Technician",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2015",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Answer phone and email responses to the ITS Help Desk",
+        "Assist students, faculty, and staff in-person with requests"
       ]
     },
     {
-      "organization": "",
+      "company": "Kailua High School",
+      "position": "Part-time Teacher",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2014",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Create course material to teach students basics of underwater robotics",
+        "Teach kids technical skills such as public speaking and technical writing"
+      ]
+    },
+    {
+      "company": "Vacations-Hawaii",
+      "position": "Reservationist",
+      "website": "",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "",
+      "highlights": [
+        "Responsible for making reservations and for the efficient and accurate handling of all associated paperwork for charter services to Las Vegas, as well as providing excellent service to customers both in-person or over the phone.",
       ]
     }
   ],
