@@ -7,8 +7,6 @@ labels:
   - Software engineering
 ---
 
-<img class="ui medium right spaced image" src="/images/jscripot.png">
-
 The first time I was exposed to code was as a junior in high school.  My math teacher knew that I was interested in computer science, but was well aware that the school did not offer those courses.  He offered to teach me the basics of C++ so that we could develop a small game that all the other students could play.  The game was unfinished because of time constraints and priorities, but I was able to continue my passion for coding when I got to college where I learned more about C, C++, and Java.
 
 As I learn more about Javascript, I find it neat that it uses some of the same syntax as the languages I already know, which makes it simple to understand.  Alongside that, it also eliminates the struggle of having to declare variable types, and saves you time on being able to know what kind of variable you're declaring.  I don't know much about what I'll be capable of with knowing this language, but I aspire to be able to accomplish big projects once I gain a deeper understanding.  Since Javascript is a language that is widely used, I aim to know it inside and out in order to be successful in the future.  Through FreeCodeCamp I went through several exercises to learn the basics of Javascript. The excercises were mostly based on skills that were similar to what I already had developed learning C++ and Java, but there were a few tricks with Javascript that Java or C++ can't do.
