@@ -4,7 +4,7 @@ type: project
 image: images/itstalks.jpg
 title: ITS Talks
 permalink: projects/its
-date: 2014
+date: 2016
 labels:
   - Technology
   - Video editing
