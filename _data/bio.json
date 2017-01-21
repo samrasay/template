@@ -129,16 +129,23 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Fourth Place",
+      "date": "2013",
+      "awarder": "International MATE ROV Competition",
+      "summary": "My team and I were awarded fourth place on the international stage of the MATE ROV competition."
     },
+
     {
       "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "date": "2013-2012",
+      "awarder": "Oahu MATE ROV Competition",
+      "summary": "My team and I were awarded first place in both 2012 and 2013."
+    },
+    {
+      "title": "NOAA Pacific Region Award",
+      "date": "2013",
+      "awarder": "National Oceanic and Atmospheric Association",
+      "summary": "My partner and I were given this award for our research regarding buoyancy systems in underwater robotics."
     }
   ],
   "references": [
