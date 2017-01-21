@@ -10,15 +10,11 @@ labels:
   - Education
   - Teaching
   - STEM
-summary: The Kailua High School Robotics Program is an afterschool program where I mentor kids to teach them the basic concepts of underwater robotics.
+summary: An afterschool program that I helped create, where kids are taught the basic concepts of underwater robotics.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/clion.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Kailua High School Robotics Program originally started as an afterschool club that was formed by me and my friends during our junior and senior year of high school.  The goal of the program is to build an underwater robot capable of competing in the MATE ROV competition.  During my time on the team, we received numerous awards including 4th and 5th place at the 2012 and 2013 International MATE ROV Competition.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+I am currently a mentor for the program, and teach students the basic concepts of building an underwater robot and building a business.  Students learn and apply many of the skills they would learn in STEM courses, but also develop technical skills such as technical writing and public speaking.  They are challenged every day to find solutions to new problems and situations.
