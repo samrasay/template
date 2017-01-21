@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/itstalks.jpg
+image: images/its_icon.jpg
 title: ITS Talks
 permalink: projects/its
 date: 2016
