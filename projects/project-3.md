@@ -6,8 +6,10 @@ title: ITS Talks
 permalink: projects/its
 date: 2014
 labels:
-  - Lisp
-  - GitHub
+  - Technology
+  - Video editing
+  - Information
+  - Presentations
 summary: Video editing for ITS Talks.
 ---
 
