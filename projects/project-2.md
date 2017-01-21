@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/clion.png
 title: Kailua High School Robotics Program
 permalink: projects/khs
 date: 2017
