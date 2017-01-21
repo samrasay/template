@@ -4,19 +4,19 @@ type: project
 image: images/smrs.jpg
 title: Surfrider Marine Recovery Systems
 permalink: projects/smrs
-date: 2015
+date: 2013
 labels:
   - Robotics
   - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: My team developed an underwater remotely operated vehicle (ROV) that won first place in the Oahu MATE ROV Regional Competition, and placed 4th place in the International MATE ROV Competition in Seattle.
 ---
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The ROV competition held by the Marine Advanced Technology Education Center is a program that that challenges students to apply the physics, math, electronics, and engineering skills they are learning in the classroom to solving problems from the marine workplace.  Events are held worldwide, and each year, the challenges that the students must face are changed every year.  Students are only limited by safety restrictions and are open to use any materials, skills, and assets they have acquired.  Students are challenged to think of themselves as a business, and must also create a professional persona for their company.  Alongside developing an underwater ROV, they must also produce a technical report, poster display board, and business presentation.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I was the lead technical writer who was responsible for design of the technical report, poster display board, and presentation.  Throughout the year, I gathered and compiled the necessary information to include in the technical report.  This consisted of design rationale, graphs, budget sheets, and team evaluations.  I was also responsible for documentation of the ROV's development.  The same data was then used to design the poster display board, which quickly summarized the design rationale and goals of the company.  For the business presentation, I was responsible for creating speech content and teaching team members the necessary skills to create a formal 15 minute presentation.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [Marine Advanced Technology Education website](http://oahu.marinetech2.org/).
 
 
 
