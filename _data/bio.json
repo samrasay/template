@@ -3,6 +3,7 @@
     "name": "Samuel Rasay Jr.",
     "label": "Student",
     "picture": "https://samrasay.github.io/images/sam.jpg",
+    "phone":
     "email": "samrasay@hawaii.edu",
     "website": "https://samrasay.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018. I plan to pursue a career in security or web/app development.",
@@ -16,41 +17,35 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "samrasay",
+        "url": "http://github.com/samrasay"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "samrasay",
+        "url": "https://www.linkedin.com/in/samuel-rasay-jr-508128133"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
-    ]
-  },
+      
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Security",
+      "keywords": [
+      ]
+    },    
+    {
+      "name": "Teaching",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Robotics",
       "keywords": [
       ]
     }
