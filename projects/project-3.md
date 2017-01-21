@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/itstalks.jpg
-title: Cotton
-permalink: projects/cotton
+title: ITS Talks
+permalink: projects/its
 date: 2014
 labels:
   - Lisp
