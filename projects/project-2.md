@@ -2,18 +2,18 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+title: Kailua High School Robotics Program
+permalink: projects/khs
+date: 2017
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - High School
+  - Education
+  - Teaching
+  - STEM
+summary: The Kailua High School Robotics Program is an afterschool program where I mentor kids to teach them the basic concepts of underwater robotics.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/clion.jpg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
