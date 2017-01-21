@@ -13,7 +13,7 @@ labels:
 summary: My team developed an underwater remotely operated vehicle (ROV) that won first place in the Oahu MATE ROV Regional Competition, and placed 4th place in the International MATE ROV Competition in Seattle.
 ---
 
-<img class="ui medium right floated rounded image" src="/theboiz.png">
+<img class="ui medium right floated rounded image" src="images/theboiz.png">
 
 The ROV competition held by the Marine Advanced Technology Education Center is a program that that challenges students to apply the physics, math, electronics, and engineering skills they are learning in the classroom to solving problems from the marine workplace.  Events are held worldwide, and each year, the challenges that the students must face are changed every year.  Students are only limited by safety restrictions and are open to use any materials, skills, and assets they have acquired.  Students are challenged to think of themselves as a business, and must also create a professional persona for their company.  Alongside developing an underwater ROV, they must also produce a technical report, poster display board, and business presentation.
 
