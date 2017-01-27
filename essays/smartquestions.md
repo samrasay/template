@@ -22,7 +22,7 @@ As an example, here is what is considered a "smart" question:
 
 <img class="ui centered huge image" src="/images/smartquestion.png">
 
-The question is simple, explicit, and the user describes his experiences with the issue.  He uses meaningful subject header tags to clearly describe his inquiry.  The user provides examples of the methods he's used and his results, which clearly demonstrates his attempt to find an answer through experimentation.  Additionally, the user is not asking a question for the sake of an answer.  He is making an attempt to truly understand when to properly use `==` and `.equals()`, and leaves room for a strong discussion.
+The question is simple, explicit, and the user describes his experiences with the issue.  He uses meaningful subject header tags to clearly describe his inquiry.  The user provides examples of the methods he's used and his results, which clearly demonstrates his attempt to find an answer through experimentation.  Additionally, the user is not asking a question for the sake of an answer.  He is making an attempt to truly understand when to properly use ```==``` and `.equals()`, and leaves room for a strong discussion.
 
 As a result, the user was provided with a "smart" answer:
 
