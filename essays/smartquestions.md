@@ -16,4 +16,7 @@ Working with technology is difficult.  At some point, you will encounter an erro
 
 Following these guidelines is important for anyone in a tech related field, because as a member of the tech community, everyone is held to a certain level of competency.  Asking questions that could have been solved by doing a little reading, will yield little to no results, because you have shown that you are unwilling to learn.  Nobody wants to help someone who's looking for the easy way out.  By constructing a well formulated question, and providing examples, it makes it much easier for others to provide you with a constructive response that resolves the issue and helps you understand the material.
 
+As an example, here is what is considered to a "smart" question:
 <img class="ui centered huge image" src="/images/smartquestion.png">
+
+The question is short and simple, and the user describes his experiences with the issue.  The user provides examples of the methods he's used to compare strings, and shows that he understands how to use '==' and '.equals()'
