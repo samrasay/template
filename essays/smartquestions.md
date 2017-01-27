@@ -30,7 +30,7 @@ As a result, the user was provided with a "smart" answer:
 
 The person who responded understood that the user genuinely wished to understand the answer, rather than just receiving one.  The responder answers the user's questions with detailed explanations on the differences between `==` and `.equals()`.  They also provided commented code to help the user understand how and when to use the functions properly.  The rest of the thread is filled with similar answers from other users, with the same level of thoughtfulness and examples:
 
-[How do I compare strings in Java?](http://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java)
+(http://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java)
 
 ## Not Smart Questions ##
 
