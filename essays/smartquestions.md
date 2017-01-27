@@ -19,4 +19,4 @@ Following these guidelines is important for anyone in a tech related field, beca
 As an example, here is what is considered to a "smart" question:
 <img class="ui centered huge image" src="/images/smartquestion.png">
 
-The question is short and simple, and the user describes his experiences with the issue.  The user provides examples of the methods he's used to compare strings, and shows that he understands how to use '==' and '.equals()'
+The question is short and simple, and the user describes his experiences with the issue.  The user provides examples of the methods he's used to compare strings, and shows that he understands how to use `==` and `.equals()`
