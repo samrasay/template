@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Reflections on Configuration Management
-date: 2017-01-27
+date: 2017-01-31
 labels:
   - Software engineering
   - Configuration management
