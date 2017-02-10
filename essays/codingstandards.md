@@ -11,7 +11,7 @@ labels:
   - IntelliJ IDEA
 ---
 
-<img class="ui centered medium image" src="/images/kiss.jpg">
+<img class="ui medium right floated image" src="/images/kiss.jpg">
 
 ##Introduction##
 In the field of engineering you often hear, "if it's not broken, why fix it?"  However, producing quality code is more than creating a function or program that just works.  Quality code is determined by its potential to allow others to make improvements or implement additional functionality to it.  Others should be able to look at your code and think of ways to take your ideas even further; this all begins with good coding standards.
