@@ -15,6 +15,8 @@ labels:
 ## Introduction ##
 In the field of engineering you often hear, "if it's not broken, why fix it?"  However, producing quality code is more than creating a function or program that just works.  Quality code is determined by its potential to allow others to make improvements or implement additional functionality to it.  Others should be able to look at your code and think of ways to take your ideas even further; this all begins with good coding standards.
 
+<img class="ui medium right floated image" src="/images/smartquestion.png">
+
 ## Quality vs. Quantity ##
 I've been asked many times by peers to review their code, and have had the displeasure of politely declining because there was too much clutter.  It baffled me how many people thought that the amount of code they had written, correlated with its quality.  When I first started learning C++, I compared writing code to writing an essay.  Nobody wants to read your essay if it's filled with content that nobody understands or adds nothing to your discussion.  Although you may have met the submission requirements of 3-4 pages, double-spaced, it does not mean your essay is A+ material.  I figured that the same rule applied to writing code; nobody wants to read 200+ lines of code if it could've been written in five.  It was from then on, I promised to others' lives easier by writing good, simple, clean code.
 
