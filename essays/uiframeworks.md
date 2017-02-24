@@ -4,9 +4,12 @@ type: essay
 title: Frameworks Made Easy
 date: 2017-02-23
 labels:
-  - Coding standards
+
+  - HTML
+  - Web Design
   - Frameworks
   - Semantic UI
+  
 ---
 
 ## Introduction ##
