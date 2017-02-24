@@ -21,16 +21,19 @@ Websites serve the purpose of allowing a user to interact online in a simple and
 
 Recently, I've been working with Semantic UI, a framework for HTML and CSS.  The beauty behind Semantic UI is the library filled with premade classes that allow websites to be created effortlessly.  Because these classes are based off of common features used by websites today, it's very simple to create a professional website with modern-day appeal.  Additionally, the classes are defined to create exactly what you want.  For example, if you wanted to make a big blue button, you would simply specify:
 
-`<div class = "big blue button">Button</div>`
+`'<div class = "big blue button">Button</div>'`
 
 And you end up with: 
 
 <img class="ui small image" src="/images/button.png">
 
-The syntax and class names of Semnatic UI practically allow you to write HTML and CSS in English!  After working with Semantic UI, it's safe to say that learning a framework is very frustrating and time consuming.  However, after acquainting myself with Semantic UI by rebuilding other websites, it definitely speeds up the process and efficiency of web development.  
+The syntax and class names of Semnatic UI practically allow you to write HTML and CSS in English!  It saves the pain of specifying and creating several different classes in your CSS stylesheet; along with the trouble of having to edit and correct those classes if you manage to mess up (which will happen more often than not).
 
-## IntelliJ and ESLint ##
-Using IntelliJ and ESLint has made programming in JavaScript that much easier.  JSFiddle is great, but not having a tool to check your syntax can make life difficult when writing code.  Although I appreciate the utility provided by ESLint, I have mixed feelings about its coding standards.  It flags you on every little detail, down to whether or not there is a space between the curly brace and the end of a parameter's closing parenthesis when creating a function.  I love that it makes writing code with others much easier, it strips away my freedom to write clean code the way I want to.  It is definitely not worth my time working to get that green checkmark, when I know that my code is written well enough to read.
+## Do You Have a Minute? ##
 
-## The Bottom Line ##
-I believe that good coding standards lies within writing simple, effective, code that can be read easily by others.  It forces you to think thoroughly of how your code works, and how you can improve it so that others can work with it.  Additionally, I believe that development tools such as IntelliJ and ESLint are great but, I think they hand-hold too much, and could ease up a little on correcting every little mistake.
+Learning a new framework can almost be equivalent to learning a new programming language.  There's no doubt that frustration will occur when working with a tool that you do not know how to use.  In any case, a large amount of time must be invested into understanding the framework to spare yourself the pains and headaches of trying to get it to work properly.  Watching tutorials and looking at examples from websites such as PluralSight, definitely helped me grasp a better understanding of Semantic UI.  Devoting time to learning a framework definitely pays off and puts you at an advantage when it comes to developing a beautiful web page.
+
+## Building a Solid Foundation ##.
+
+Although I have never worked with a framework before, I have newfound praise for them.  Frameworks allow you to build a beautiful house fitted with windows, doors, and shutters; rather than putting up four walls and a roof and calling it a "home".  After acquainting myself with Semantic UI by rebuilding several other websites, it's safe to say that it definitely speeds up the process and efficiency of web development.  The days of writing raw HTML and CSS are over for me, and I intend on utilizing Semantic UI to the fullest when developing my own websites in the future.
+<img class="ui medium right floated image" src="/images/house.jpg">
