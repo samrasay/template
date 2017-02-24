@@ -23,7 +23,11 @@ Recently, I've been working with Semantic UI, a framework for HTML and CSS.  The
 
 `<div class = "big blue button">Button</div>`
 
-And you end up with: <img class="ui medium right floated image" src="/images/button.png">
+And you end up with: 
+
+<img class="ui small image" src="/images/button.png">
+
+The syntax and class names of Semnatic UI practically allow you to write HTML and CSS in English!  After working with Semantic UI, it's safe to say that learning a framework is very frustrating and time consuming.  However, after acquainting myself with Semantic UI by rebuilding other websites, it definitely speeds up the process and efficiency of web development.  
 
 ## IntelliJ and ESLint ##
 Using IntelliJ and ESLint has made programming in JavaScript that much easier.  JSFiddle is great, but not having a tool to check your syntax can make life difficult when writing code.  Although I appreciate the utility provided by ESLint, I have mixed feelings about its coding standards.  It flags you on every little detail, down to whether or not there is a space between the curly brace and the end of a parameter's closing parenthesis when creating a function.  I love that it makes writing code with others much easier, it strips away my freedom to write clean code the way I want to.  It is definitely not worth my time working to get that green checkmark, when I know that my code is written well enough to read.
