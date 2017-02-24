@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Frameworks Made Easy
+title: Websites Made Easy
 date: 2017-02-23
 labels:
 
