@@ -29,3 +29,14 @@ Some mockup pages include:
 - Admin page
 - Projects listing page
 - Browse projects by interests/organization/major page(s)
+
+## Use Case Ideas ##
+
+Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
+
+- New user goes to landing page, logs in, gets to home page, sets up profile.
+- Admin goes to landing page, logs in, gets to home page, and approves projects.
+- Project owner goes to landing page, logs in, gets to home page, and posts a project for approval.
+- User goes to landing page, logs in, finds a project through project listing page, and signs up for a project.
+
+## Beyond the Basics ##
