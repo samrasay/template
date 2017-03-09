@@ -10,7 +10,10 @@ labels:
 
 By Sam Rasay and Christian Leandro
 
+## Project Idea: Project Hub ##
+
 ## Overview ##
+
 The problem: There are many bright minds on campus that are working on projects in many different fields.  However, finding help for working on these projects is not always an easy task.  So, how would you be able to find those people who are interested in contributing?
 
 The solution: Project Hub would enable users to log in to create and sign up to assist others with projects that they're interested to work on.  Users would be able to determine which projects they're interested in by:
@@ -42,3 +45,9 @@ Whether or not the following bullet points list all pages or not, the completed 
 - User goes to landing page, logs in, finds a project through project listing page, and signs up for a project.
 
 ## Beyond the Basics ##
+
+- Notify project owners when admins approve their project after review.
+- Provide an "expiration date" for projects that are considered "inactive".
+- Allow students to rate projects and project owners.
+- Allow project owners to close off projects once they are full.
+- Allow students to showcase projects that they've completed on their home page.
