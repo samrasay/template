@@ -20,5 +20,12 @@ The solution: Project Hub would enable users to log in to create and sign up to 
 Each project would have an "owner" who would post a request for students to join, and that project would have to be approved by an "admin".  Admins would be in charge of ensuring that the projects are active, to avoid students from joining a project that is either complete or no longer available.
 
 ## Mockup Page Ideas##
+Some mockup pages include:
 
-- 
+- Public landing page
+- Login page
+- User home page
+- Project owner page
+- Admin page
+- Projects listing page
+- Browse projects by interests/organization/major page(s)
