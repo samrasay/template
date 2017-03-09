@@ -8,6 +8,8 @@ labels:
   - Meteor
 ---
 
+By Sam Rasay and Christian Leandro
+
 ## Overview ##
 The problem: There are many bright minds on campus that are working on projects in many different fields.  However, finding help for working on these projects is not always an easy task.  So, how would you be able to find those people who are interested in contributing?
 
