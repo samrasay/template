@@ -9,10 +9,11 @@ labels:
   - Application architecture
   - Software engineering
   
+summary: My reflections on using Meteor 
 ---
 
 ## Getting Ready for Blast Off ##
-Things
+Meteor was 
 
 ## One Small Step for Software Engineering ##
 Good Things
