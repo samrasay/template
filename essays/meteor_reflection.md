@@ -21,5 +21,5 @@ I would definitely say that there is a steep learning curve for Meteor.  You're 
 ## Houston, we have several problems... ##
 Bad Things
 
-## My Astronimical Experience ##
+## My Astronomical Experience ##
 Overall, I've had a positive experience working with Meteor.  It's definitely helped simplified the idea of building web applications for me.  Now that I have a better understanding of application architecture, I feel more confident in my skills to work with others and build more complex projects in the future.
