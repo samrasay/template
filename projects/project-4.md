@@ -35,6 +35,8 @@ On the technical side of development, I learned a lot about JavaScript and Mongo
 In the non-technical aspect, I learned that in order for a project to be successful there has to be some sort of leadership.  Since my groupmembers and I are familiar with one another, we found it unnecessary for any one of us to assume a leadership role.  However, this ended up with final features not being decided, or errors and conflicts occurring during or after a merge.  In the future, I'd like to showcase better project management leadership skills in order to create a more stellar application.
 
 You can learn more at: [UH Stego](http://scktech.github.io/).
+
 You can also visit my team members's portfolios:
+
 [Connor Slike](http://slike.github.io/)
 [Kurt Nikaitani](https://kknikk.github.io/)
