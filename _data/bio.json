@@ -5,7 +5,7 @@
     "picture": "https://samrasay.github.io/images/sam.jpg",
     "email": "samrasay@hawaii.edu",
     "website": "https://samrasay.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018. I plan to pursue a career in security or web/app development.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018. I plan to pursue a career in security, IT management, or education.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -57,6 +57,9 @@
         "C++",
         "Java",
         "Javascript",
+        "Semantic UI",
+        "Meteor",
+        "MongoDB",
       ]
     },
     {
@@ -84,6 +87,7 @@
         "ICS 212",
         "ICS 241",
         "ICS 311",
+        "ICS 314",
         "ICS 355",
         "ICS 425"
       ]
@@ -91,10 +95,23 @@
   ],
   "work": [
     {
+      "company": "Kailua High School",
+      "position": "Part-Time Mac/PC Technician",
+      "website": "",
+      "startDate": "April 2017",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk",
+        "Assist students, faculty, and staff in-person with requests"
+      ]
+    },
+    {
       "company": "UH Information Technology Services",
       "position": "Mac/PC Technician",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015",
+      "startDate": "September 2015",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -107,7 +124,7 @@
       "company": "Kailua High School",
       "position": "Part-time Teacher",
       "website": "",
-      "startDate": "2014",
+      "startDate": "December 2014",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -119,8 +136,8 @@
       "company": "Vacations-Hawaii",
       "position": "Reservationist",
       "website": "",
-      "startDate": "2014",
-      "endDate": "2015",
+      "startDate": "August 2014",
+      "endDate": "June 2015",
       "summary": "",
       "highlights": [
         "Responsible for making reservations and for the efficient and accurate handling of all associated paperwork for charter services to Las Vegas, as well as providing excellent service to customers both in-person or over the phone.",
@@ -137,7 +154,7 @@
 
     {
       "title": "First place",
-      "date": "2013-2012",
+      "date": "2012-2013",
       "awarder": "Oahu MATE ROV Competition",
       "summary": "My team and I were awarded first place in both 2012 and 2013."
     },
