@@ -39,4 +39,5 @@ You can learn more at: [UH Stego](http://scktech.github.io/).
 You can also visit my team members's portfolios:
 
 [Connor Slike](http://slike.github.io/)
+
 [Kurt Nikaitani](https://kknikk.github.io/)
