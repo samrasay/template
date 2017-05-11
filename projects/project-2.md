@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cbat.png
+image: images/cbat_icon.png
 title: Kailua High School Robotics Program
 permalink: projects/khs
 date: 2017
