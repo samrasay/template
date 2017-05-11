@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uhstego.png
+image: images/uhstego_icon.png
 title: UH Stego
 permalink: projects/uhstego
 date: 2017
